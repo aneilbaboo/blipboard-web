@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+{! Used for the iOS client app's "about" content !}
+<html>
+<head>
+  <title>{+title}Blipboard{/title}</title>
+
+  <link rel="stylesheet" href="/content/styles/iphone.css" type="text/css" />
+</head>
+<body>
+  {+content}
+  This is the base content.
+  {/content}
+</body>
+</html>

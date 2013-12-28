@@ -1,0 +1,8 @@
+{>"layouts/default" /}
+{<title}Blipboard - Terms{/title}
+{<content}
+<section id="terms">
+	<section class="headline">Terms</section>
+	{>"partials/terms" /}
+</section>
+{/content}

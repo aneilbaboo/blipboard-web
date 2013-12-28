@@ -1,0 +1,24 @@
+{>"layouts/default" /}
+{<title}Blipboard - The Team{/title}
+{<content}
+<section id="team">
+	<section class="headline">The Team</section>
+
+	<section>
+		<p>
+			Jason Fischl and Aneil Mallavarapu met when they were in high school at the Shad Valley Technology and Entrepreneurship summer program at the University of Calgary.
+		</p>
+	</section>
+
+	<section>
+		<p>
+			<em>Aneil Mallavarapu</em> is an award winning computer scientist from Harvard with a PhD from UCSF. As director of the little b project, he created a language for making biology computable. His work has been covered in Nature, Science, Wired and Ars Technica. At Millennium Pharmaceuticals, Aneil spearheaded genomics-based knowledge management. Technologies he led and developed were sold to partners such as Bayer, Aventis and Monsanto for over $50M. Aneil was part of a founding team which spun out a startup from Millennium. Aneil is the author of several scientific papers, which continue to be taught at top universities.
+		</p>
+
+		<p>
+			<em>Jason Fischl</em> is a hands-on serial entrepreneur with extensive experience in the VoIP and Cloud Technology spaces. He has co-founded four technology companies. Most recently, Jason was a Senior Director at Skype where he led a program to reproduce all Skype functionality in a clean room (complete isolation from Skype and eBay). Subsequently, he built and managed the Product and Engineering teams responsible for Skype’s next generation, cloud-based architecture to provide web APIs to reach hundreds of millions of Skype users.
+		</p>
+	</section>
+
+</section>
+{/content}

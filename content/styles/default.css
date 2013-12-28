@@ -1,0 +1,40 @@
+html,body { padding:0; margin:0; background:#fff; }
+html { min-width:960px; }
+
+a { color:#3399ee; /* color:#996533; */ text-decoration:none; }
+a:hover { color:#E8660D; }
+a:selection { color:#E8660D; }
+body { font-size:20px; color:#996533; font-family:'HelveticaNeue-Light','Helvetica Neue Light','Helvetica Neue',sans-serif; font-weight:200; text-shadow:1px 1px 1px rgba(255,255,255,.5); }
+em { font-family:Georgia,"Times New Roman",Times,serif; font-style:italic; }
+hr { height:0px; border-top:none; border-bottom:2px dotted #996533; }
+img { border:0; }
+
+.clearfix { float:none; clear:both; }
+.headline { font-size:185%; }
+.iPhoneScreenshot { background:url('/content/images/web_iphone5.png') no-repeat; height:617px; width:382px; }
+.layoutColumn { width:848px; padding:0 56px; margin:0 auto; overflow:hidden; }
+.bb-logo { display:inline-block; width:223px; height:50px; background:url('/content/images/logo.png') no-repeat; }
+
+
+#footer { text-align:center; font-size:60%; }
+#footer .layoutColumn { padding:45px 0 25px 0; }
+#footer .nav { padding:0; margin:0; }
+body.home #footer .nav { margin-left:295px; }
+#footer .nav li { display:inline; list-style-type:none; padding-right:60px; }
+#footer .nav a { font-family:"HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",sans-serif; font-weight:bold; color:#868F99; }
+
+#header .layoutColumn { padding:40px 0 24px 0; }
+
+#home hr { margin:2.5em 0; }
+#home .iPhoneScreenshot { position:absolute; margin-left:-56px; }
+#home .contentColumn { padding:48px 0 0 358px; }
+#home .links .socialMedia { float:right; }
+
+#main { background:url('/content/images/bg.jpg'); padding:32px 0; }
+
+#press article { margin:1.5em 0; }
+#press article .logo { max-width:150px; max-height:100px; padding:.5em; background:#fff; border-radius:3px; box-shadow:1px 1px rgba(0,0,0,.1); }
+#press article .meta { font-size:75%; }
+#press article .title {}
+#press article .source { font-weight:bold; }
+

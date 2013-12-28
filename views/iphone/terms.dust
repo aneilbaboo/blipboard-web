@@ -1,0 +1,5 @@
+{>"layouts/iphone" /}
+{<title}Blipboard Terms and Conditions{/title}
+{<content}
+{>"partials/terms" /}
+{/content}

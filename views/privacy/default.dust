@@ -1,0 +1,8 @@
+{>"layouts/default" /}
+{<title}Blipboard - Privacy{/title}
+{<content}
+<section id="privacy">
+	<section class="headline">Privacy</section>
+	{>"partials/privacy" /}
+</section>
+{/content}

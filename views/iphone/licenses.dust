@@ -1,0 +1,5 @@
+{>"layouts/iphone" /}
+{<title}Blipboard Licenses{/title}
+{<content}
+  {>"partials/licenses" /}
+{/content}

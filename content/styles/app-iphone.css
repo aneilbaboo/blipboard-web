@@ -1,0 +1,20 @@
+html,body { width:auto; height:auto; }
+
+.blipCalloutContainer { margin-top:-75px; }
+.blipCalloutContainer .arrow { display:none; }
+
+.blipCallout { position:relative; width:auto; left:auto; bottom:auto; border-radius:0; padding:8px 14px; background:#F3F3F3; box-shadow:0 -3px 5px #000; }
+.blipCallout .closeButton { display:none; }
+.blipCallout .placeName { position:absolute; z-index:-1; top:-42px; line-height:42px; background:rgba(87,74,69,.8); color:#fff; margin:0; left:0; right:0; padding:0 5px 0 76px; font-weight:normal; font-size:16px; }
+.blipCallout .authorPicture { display:block; margin-top:-18px; }
+.blipCallout .placePicture { display:none; }
+.blipCallout .authorName { display:block; color:#574A45; font-size:17px; margin-bottom:auto; margin-left:62px; }
+.blipCallout .blipTime { display:block; color:#7F7F7F; font-size:12px; margin-left:62px; }
+.blipCallout .blipTime .label { font-weight:bold; }
+.blipCallout .blipText { margin-top:5px; color:#574A45; }
+
+#mapCallout { display:none; }
+#mapContainer { left:0; position:static; }
+
+#spinner { /* display:none; */ }
+

@@ -1,0 +1,42 @@
+{>"layouts/default" /}
+{<title}Welcome to Blipboard!{/title}
+{<requireJs}<script data-main="content/rjs/mains/home/default" src="content/rjs/lib/require-jquery.js"></script>{/requireJs}
+{<bodyClass}home{/bodyClass}
+{<content}
+<section id="home">
+    <div class="iPhoneScreenshot"></div>
+    <div class="contentColumn">
+        <section class="headline">
+				Guide your friends to your favorite things around town.  
+		</section>
+
+        <section>
+            <p>
+                                Post a blip about something you love.  
+</p>
+        <p>
+                        Your friends get an alert when they're nearby.
+			</p>
+        </section>
+
+        <!-- TODO: Horizontal rule image goes here. JKF -->
+        <hr />
+
+        <section class="links">
+            <span>
+                <a href="https://itunes.apple.com/us/app/blipboard/id428023608?mt=8" target="_blank">
+					<img src="/content/images/web_icn_appstore.png" />
+                </a>
+            </span>
+            <span class="socialMedia">
+                <a href="https://twitter.com/blipboard" target="_blank">
+					<img src="/content/images/web_icn_twitter.png" width="62" height="62" />
+				</a>
+                <a href="https://www.facebook.com/pages/Blipboard/252954518130988?ref=ts&fref=ts" target="_blank">
+					<img src="/content/images/web_icn_facebook.png" width="62" height="62" />
+                </a>
+            </span>
+        </section>
+    </div>
+</div>
+{/content}

@@ -1,0 +1,147 @@
+{>"layouts/default" /}
+{<title}Blipboard - Press{/title}
+{<content}
+<section id="press">
+	<section class="headline">Press</section>
+
+	<section>
+		Blipboard launched at <a href="http://www.eiseverywhere.com/ehome/DEMO/home/">DEMO 2012</a>. Check out our <a href="http://www.youtube.com/watch?v=9cVSF1PZTFg" target="_blank">pitch</a> from the event and the <a href="http://youtu.be/_tpf_AUtidg?t=9m" target="_blank">reaction from the panelists</a>.
+	</section>
+
+	<section>
+		<p>Recent press coverage:</p>
+
+		<article>
+			<a href="http://www.forbes.com/sites/sarahaustin/2012/10/12/tuning-into-life-nearby-with-blipboard/" target="_blank">
+				<img class="logo" src="/content/images/press/forbes.svg" />
+			</a>
+			<div>
+				<a class="title" href="http://www.forbes.com/sites/sarahaustin/2012/10/12/tuning-into-life-nearby-with-blipboard/" target="_blank">Tuning into life nearby with BlipBoard</a>
+				<div class="meta"><span class="source">Forbes</span> &mdash; October 12, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://untether.tv/2012/lessons-of-a-mobile-startup-while-starting-it-up-with-blipboard-co-founders-aneil-mallavarapu-and-jason-fischl/" target="_blank">
+				<img class="logo" src="/content/images/press/untether_tv.png" />
+			</a>
+			<div>
+				<a class="title" href="http://untether.tv/2012/lessons-of-a-mobile-startup-while-starting-it-up-with-blipboard-co-founders-aneil-mallavarapu-and-jason-fischl/" target="_blank">Lessons of a mobile startup while starting it up – with Blipboard co-founders Aneil Mallavarapu and Jason Fischl</a>
+				<div class="meta"><span class="source">Untether.tv</span> &mdash; October 10, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://techcrunch.com/2012/10/05/the-14-most-interesting-startups-to-emerge-from-demo/" target="_blank">
+				<img class="logo" src="/content/images/press/techcrunch.jpg" />
+			</a>
+			<div>
+				<a class="title" href="http://techcrunch.com/2012/10/05/the-14-most-interesting-startups-to-emerge-from-demo/" target="_blank">The 14 Most Interesting Startups To Emerge From DEMO</a>
+				<div class="meta"><span class="source">TechCrunch</span> &mdash; October 5, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://www.siliconvalleywatcher.com/mt/archives/2012/10/outabout_taploi.php" target="_blank">
+				<img class="logo" src="/content/images/press/silicon_valley_watcher.png" />
+			</a>
+			<div>
+				<a class="title" href="http://www.siliconvalleywatcher.com/mt/archives/2012/10/outabout_taploi.php" target="_blank">Out &amp; About: Taploid &amp; Blipboard</a>
+				<div class="meta"><span class="source">Silicon Valley Watcher</span> &mdash; October 5, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://news.cnet.com/1606-2_3-50132546.html" target="_blank">
+				<img class="logo" src="/content/images/press/cnet_news.png" />
+			</a>
+			<div>
+				<a class="title" href="http://news.cnet.com/1606-2_3-50132546.html" target="_blank">DEMO showcases test that predicts Alzheimer's, Instagram-type app for video</a>
+				<div class="meta"><span class="source">CNET</span> &mdash; October 4, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://upstart.bizjournals.com/news/technology/2012/10/03/blipboard-tunes-into-your-friends-world.html" target="_blank">
+				<img class="logo" src="/content/images/press/upstart_business_journal.jpg" />
+			</a>
+			<div>
+				<a class="title" href="http://upstart.bizjournals.com/news/technology/2012/10/03/blipboard-tunes-into-your-friends-world.html" target="_blank">Blipboard tunes into your company's brand</a>
+				<div class="meta"><span class="source">Upstart Business Journal</span> &mdash; October 4, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://www.mobilemarketingwatch.com/blipboard-touts-first-personalized-social-map-26020/" target="_blank">
+				<img class="logo" src="/content/images/press/mobile_marketing_watch.png" />
+			</a>
+			<div>
+				<a class="title" href="http://www.mobilemarketingwatch.com/blipboard-touts-first-personalized-social-map-26020/" target="_blank">Blipboard Touts First Personalized Social Map</a>
+				<div class="meta"><span class="source">Mobile Marketing Watch</span> &mdash; October 4, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://venturebeat.com/2012/10/03/blipboard/#kZvZFEtKHylew61L.99" target="_blank">
+				<img class="logo" src="/content/images/press/venture_beat.png" />
+			</a>
+			<div>
+				<a class="title" href="http://venturebeat.com/2012/10/03/blipboard/#kZvZFEtKHylew61L.99" target="_blank">Blipboard’s iOS app tunes you into the cool things around you</a>
+				<div class="meta"><span class="source">VentureBeat</span> &mdash; October 3, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://forwardthinking.pcmag.com/none/303491-demo-2012-creating-more-focused-social-networks" target="_blank">
+				<img class="logo" src="/content/images/press/pcmag.jpg" />
+			</a>
+			<div>
+				<a class="title" href="http://forwardthinking.pcmag.com/none/303491-demo-2012-creating-more-focused-social-networks" target="_blank">Demo 2012: Creating More Focused Social Networks</a>
+				<div class="meta"><span class="source">PC Mag</span> &mdash; October 3, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://www.ubergizmo.com/2012/10/blipboard-twitter-meets-foursquare/" target="_blank">
+				<img class="logo" src="/content/images/press/ubergizmo.jpg" />
+			</a>
+			<div>
+				<a class="title" href="http://www.ubergizmo.com/2012/10/blipboard-twitter-meets-foursquare/" target="_blank">Blipboard: Twitter Meets Foursquare</a>
+				<div class="meta"><span class="source">Ubergizmo</span> &mdash; October 3, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://www.marketwatch.com/story/blipboard-unveils-worlds-first-personalized-social-map-at-demo-fall-2012-2012-10-03" target="_blank">
+				<img class="logo" src="/content/images/press/marketwatch.gif" />
+			</a>
+			<div>
+				<a href="http://www.marketwatch.com/story/blipboard-unveils-worlds-first-personalized-social-map-at-demo-fall-2012-2012-10-03" target="_blank">Blipboard Unveils World's First Personalized Social Map at DEMO Fall 2012</a>
+				<div class="meta"><span class="source">Market Watch</span> &mdash; October 3, 2012</div>
+			</div>
+			</a>
+		</article>
+
+		<article>
+			<a href="http://www.techinvestornews.com/Mobile/Mobile-Bloggers/blipboards-ios-app-tunes-you-into-the-cool-things-around-you" target="_blank">
+				<img class="logo" src="/content/images/press/tech_investor_news.gif" />
+			</a>
+			<div>
+				<a class="title" href="http://www.techinvestornews.com/Mobile/Mobile-Bloggers/blipboards-ios-app-tunes-you-into-the-cool-things-around-you" target="_blank">Blipboard’s iOS app tunes you into the cool things around you</a>
+				<div class="meta"><span class="source">Tech Investor News</span> &mdash; October 3, 2012</div>
+			</div>
+		</article>
+
+		<article>
+			<a href="http://www.bizjournals.com/sanjose/blog/2012/10/here-are-the-bay-area-startups.html" target="_blank">
+				<img class="logo" src="/content/images/press/svsj_business_journal.gif" />
+			</a>
+			<div>
+				<a href="http://www.bizjournals.com/sanjose/blog/2012/10/here-are-the-bay-area-startups.html" target="_blank">Will any of these Bay Area startups be next Salesforce to emerge from Demo?</a>
+				<div class="meta"><span class="source">Silicon Valley / San Jose Business Journal</span> &mdash; October 2, 2012</div>
+			</div>
+		</article>
+
+	</section>
+</section>
+{/content}

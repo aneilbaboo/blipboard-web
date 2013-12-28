@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="apple-itunes-app" content="app-id=428023608">
+  {+metaTags}
+  {/metaTags}
+  <title>{+title}Blipboard{/title}</title>
+
+  <link rel="stylesheet" href="/content/styles/default.css" type="text/css" />
+  <link rel="favorites icon" href="/content/images/favicon.png" />
+  {+linkTags}
+  {/linkTags}
+  <!-- // TODO: favicon?, robots.txt?, SEO?, copyright notice? what else?  JKF -->
+  {+requireJs}<script data-main="/content/rjs/mains/layouts/default" src="/content/rjs/lib/require-jquery.js"></script>{/requireJs}
+</head>
+<body class="{+bodyClass}{/bodyClass}">
+
+<header id="header">
+	<div class="layoutColumn">
+		<a class="bb-logo" href="/"></a>
+	</div>
+</header>
+
+<section id="main">
+	<div class="layoutColumn">
+		{+content}This is the base content.{/content}
+	</div>
+</section>
+
+<footer id="footer">
+	<div class="layoutColumn">
+		<ul class="nav">
+			<li><a href="/press">PRESS</a></li>
+			<li><a href="/privacy">PRIVACY</a></li>
+			<li><a href="/team">THE TEAM</a></li>
+			<li><a href="/terms">TERMS</a></li>
+		</ul>
+	</div>
+</footer>
+
+</body>
+</html>
+

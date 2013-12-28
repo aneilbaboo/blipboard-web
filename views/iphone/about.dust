@@ -1,0 +1,24 @@
+{>"layouts/iphone" /}
+{<title}About Blipboard{/title}
+{<content}
+<p>Blipboard lets you know when something interesting is nearby.</p>
+<p>Follow people and places, and when you're nearby a blip, you'll
+  get an alert on your phone.</p>
+<div id="container">
+  <div id="leftdiv"><a style="text-decoration:none" href="mailto:feedback@blipboard.com">Feedback</a></div>
+  <div id="rightdiv"><img src="/content/images/iphone/anchor.png"/></div>
+</div>
+
+<div id="container">
+  <div id="leftdiv"><a style="text-decoration:none" href="/iphone/terms">Terms of Service</a></div>
+  <div id="rightdiv"><img src="/content/images/iphone/anchor.png"/></div>
+</div>
+<div id="container">
+  <div id="leftdiv"><a style="text-decoration:none" href="/iphone/privacy">Privacy</a></div>
+  <div id="rightdiv" class="centeredImage"><img src="/content/images/iphone/anchor.png"/></div>
+</div>
+<div id="container">
+  <div id="leftdiv"><a style="text-decoration:none" href="/iphone/licenses">Licenses</a></div>
+  <div id="rightdiv"><img src="/content/images/iphone/anchor.png"/></div>
+</div>
+{/content}

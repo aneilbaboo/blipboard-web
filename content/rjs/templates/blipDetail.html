@@ -1,0 +1,12 @@
+<div id="mapCallout">
+  <img id="authorPicture" src="<%= blip.author.picture %>">
+  <div id="authorName"><%= blip.author.name %></div>
+  <div id="followerCount"><%= blip.author.listenerCount %></div>
+  <div id="blipText" style="font-size: small"><%= blip.message %></div>
+  <% if(blip.photo !== undefined && blip.photo !== null){ %>
+  <div id="blipPhotoContainer"><img id="blipPhoto" src="<%= blip.photo %>"></div>
+  <% } %>
+  <!-- TODO: Kill this next bit.  It's just for dev/testing purposes.  -->
+  <div style="color: #f5f5f5">blip.id: <%= blip.id %></div>
+  <div style="color: #f5f5f5">blip.author.id: <%= blip.author.id %></div>
+</div>

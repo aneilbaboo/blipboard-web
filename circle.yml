@@ -1,0 +1,14 @@
+machine:
+  environment: 
+
+deployment:
+  prod:
+    branch: master
+    heroku:
+      appname: blipboard-web
+
+  staging:
+    branch: staging
+    heroku:
+      appname: blipboard-web-staging
+

@@ -1,0 +1,9 @@
+{>"blips/default" /}
+{<extra_meta}
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+{/extra_meta}
+
+{<extra_css}
+	<link rel="stylesheet" href="/content/styles/app-iphone.css" type="text/css" />
+{/extra_css}
+

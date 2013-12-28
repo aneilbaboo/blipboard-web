@@ -1,0 +1,13 @@
+<div class="blipCallout">
+  <div class="closeButton"><img src="/content/images/callout_close_btn.png" width="" /></div>
+  <div class="picture placePicture"><img src="<%= blip.place.picture %>" /></div>
+  <div class="picture authorPicture"><img src="<%= blip.author.picture %>" /></div>
+  <div class="name placeName">@ <%= blip.place.name %></div>
+  <div class="name authorName"><%= blip.author.name %></div>
+  <div class="blipTime"><span class="label">Blipped</span> <span class="time"><%= blipTime %></span></div>
+  <div class="blipText"><%= blip.message %></div>
+  <% if(blip.photo !== undefined && blip.photo !== null){ %>
+  <div class="blipPhotoContainer"><img class="blipPhoto" src="<%= blip.photo %>"></div>
+  <% } %>
+</div>
+<div class="arrow">▼</div>

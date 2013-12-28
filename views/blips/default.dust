@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+	<meta name="apple-itunes-app" content="app-id=428023608" />
+
+	<meta property="og:site_name" content="Blipboard"/>
+	<meta property="og:title" content="{title}"/>
+	<meta property="og:description" content="{description}"/>
+	<meta property="og:url" content="{link|s|u}" />
+	<meta property="og:image" content="{thumbnail|s|u}"/>
+	<meta property="og:type" content="article" />
+	<meta property="fb:admins" content="850700106" />
+	<meta property="fb:admins" content="672318790" />
+	<meta property="fb:app_id" content="{facebook_app_id}" />
+
+    {+extra_meta}{/extra_meta}
+
+	<title>Blipboard</title>
+
+	<link rel="stylesheet" href="/content/styles/app.css" type="text/css" />
+    {+extra_css}{/extra_css}
+
+	<script data-main="/content/rjs/mains/blips/default" src="/content/rjs/lib/require-jquery.js"></script>
+</head>
+<body>
+
+<section id="app">
+  <div id="mapCallout">
+	<div id="channelCallout"></div>
+	<div id="footer">
+		<div class="gradient"></div>
+		<div class="logo">
+			<a href="/"><img src="/content/images/logo.png" width="112" /></a>
+                       <p>Blipboard notifies you when a friend's
+  blip is nearby.</p>
+                </div>
+		<div class="phone">
+			<img src="/content/images/iphone_with_logo.png" width="95" />
+		</div>
+		<div class="appStoreLink">
+			<a href="https://itunes.apple.com/us/app/blipboard/id428023608?mt=8"><img src="/content/images/app_store_badge.png" width="112" /></a>
+		</div>
+		<div class="links">
+			<ul class="nav">
+				<li><a href="/press">Press</a></li>
+				<li><a href="/privacy">Privacy</a></li>
+				<li><a href="/team">The Team</a></li>
+				<li><a href="/terms">Terms</a></li>
+			</ul>			
+		</div>
+	</div>
+  </div>
+
+  <div id="mapContainer">
+	<div id="spinner"><img src="/content/images/spinner.gif" height="16" /></div>
+    <div id="mapCanvas"></div>
+  </div>
+</section>
+
+</body>
+</html>

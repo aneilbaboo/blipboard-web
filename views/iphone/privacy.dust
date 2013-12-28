@@ -1,0 +1,5 @@
+{>"layouts/iphone" /}
+{<title}Blipboard Privacy Policy{/title}
+{<content}
+{>"partials/privacy" /}
+{/content}
